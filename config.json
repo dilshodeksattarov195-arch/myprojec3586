@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaileetch",
+        "uuid": 1377024,
+        "checksum": "mhp2gl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
